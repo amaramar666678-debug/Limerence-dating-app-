@@ -1,5 +1,6 @@
 💜 Limerence Dating App
-Best dating app in the world
+
+Best Dating App for Discovering New Connections
 
 Discover. Connect. Meet.
 
