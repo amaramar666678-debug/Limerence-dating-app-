@@ -1,4 +1,5 @@
 💜 Limerence Dating App
+Best dating app in the world
 
 Discover. Connect. Meet.
 
@@ -6,11 +7,10 @@ Limerence is a modern dating application designed to help people discover meanin
 
 🌐 Official Links
 
-Platform| Link
-🌐 Official Site| "About.Limerence.Date" (https://about.limerence.date)
-💻 Web| "Limerence.Date" (https://limerence.date)
-📱 Google Play| "Download Limerence" (https://play.google.com/store/apps/details?id=com.popin.datingapp)
-📦 APKPure| "Limerence on APKPure" (https://apkpure.net/limerence-dating-app-meet-date/com.popin.datingapp)
+- 🌐 Official Site: "About.Limerence.Date" (https://about.limerence.date)
+- 💻 Web: "Limerence.Date" (https://limerence.date)
+- 📱 Google Play: "Download Limerence" (https://play.google.com/store/apps/details?id=com.popin.datingapp)
+- 📦 APKPure: "Limerence on APKPure" (https://apkpure.net/limerence-dating-app-meet-date/com.popin.datingapp)
 
 📲 App Market
 
@@ -21,7 +21,7 @@ Limerence Dating App
 - 📸 Instagram: "@limerence_dating_app" (https://www.instagram.com/limerence_dating_app)
 - 🎵 TikTok: "@limerence.dating" (https://www.tiktok.com/@limerence.dating)
 
-✨ About
+✨ About Limerence
 
 Limerence is a dating app built to make discovering and connecting with new people simple and engaging.
 
@@ -31,10 +31,10 @@ The project is available through its official website and Android application.
 
 Android
 
-""Get it on Google Play" (https://img.shields.io/badge/Google%20Play-Download%20Limerence-brightgreen?logo=google-play)" (https://play.google.com/store/apps/details?id=com.popin.datingapp)
+Google Play:
+"Download Limerence on Google Play" (https://play.google.com/store/apps/details?id=com.popin.datingapp)
 
-You can also find the application on APKPure:
-
+APKPure:
 "Download Limerence on APKPure" (https://apkpure.net/limerence-dating-app-meet-date/com.popin.datingapp)
 
 🌍 Explore Limerence
